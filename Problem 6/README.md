@@ -9,8 +9,8 @@ sum.
 First line contains $T$ that denotes the number of test cases. This is followed by $T$ lines, each containing an integer,
 $N$.
 ## Constraints
-* 1\leq T \leq 10^4$
-* 1 \leq N \leq 10^4$
+* $1\leq T\leq 10^4$
+* $1\leq N\leq 10^4$
 ## Output Format
 Print the required answer for each test case.
 ## Sample Input 0
